@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala_nlp.iml" filepath="$PROJECT_DIR$/.idea/modules/scala_nlp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala_nlp-build.iml" filepath="$PROJECT_DIR$/.idea/modules/scala_nlp-build.iml" />
     </modules>
   </component>
 </project>
